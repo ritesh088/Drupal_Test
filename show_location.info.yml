@@ -1,0 +1,5 @@
+name: 'Show Location & Time'
+description: 'The module is used to show site location and the current time for the location'
+type: module
+package: 'Custom'
+core_version_requirement: ^8 || ^9

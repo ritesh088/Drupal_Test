@@ -1,0 +1,5 @@
+show_location.settings:
+  title: 'Show Location & Time'
+  parent: system.admin_config_system
+  description: 'Show the Site location and the current time for the location.'
+  route_name: 'show_location.settings'

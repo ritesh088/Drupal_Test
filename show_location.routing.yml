@@ -1,0 +1,7 @@
+show_location.settings:
+  path: '/admin/config/show_location/settings'
+  defaults:
+    _form: '\Drupal\show_location\Form\ShowLocationSettingsForm'
+    _title: 'Show Location'
+  requirements:
+    _permission: 'administer site configuration'

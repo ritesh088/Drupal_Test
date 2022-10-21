@@ -1,0 +1,3 @@
+services:
+  show_location.get_time:
+    class: Drupal\show_location\GetCurrentTime
